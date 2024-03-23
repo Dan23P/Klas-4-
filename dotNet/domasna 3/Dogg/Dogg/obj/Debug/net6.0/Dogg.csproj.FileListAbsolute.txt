@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\bin\Debug\net6.0\Dogg.exe
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\bin\Debug\net6.0\Dogg.deps.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\bin\Debug\net6.0\Dogg.runtimeconfig.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\bin\Debug\net6.0\Dogg.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\bin\Debug\net6.0\Dogg.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\Dogg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\Dogg.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\Dogg.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\Dogg.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\Dogg.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\refint\Dogg.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\Dogg.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\Dogg.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\Dogg\Dogg\obj\Debug\net6.0\ref\Dogg.dll

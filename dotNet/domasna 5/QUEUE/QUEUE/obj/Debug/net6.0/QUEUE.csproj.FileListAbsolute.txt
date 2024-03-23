@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\bin\Debug\net6.0\QUEUE.exe
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\bin\Debug\net6.0\QUEUE.deps.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\bin\Debug\net6.0\QUEUE.runtimeconfig.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\bin\Debug\net6.0\QUEUE.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\bin\Debug\net6.0\QUEUE.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\QUEUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\QUEUE.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\QUEUE.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\QUEUE.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\QUEUE.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\refint\QUEUE.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\QUEUE.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\QUEUE.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 5\QUEUE\QUEUE\obj\Debug\net6.0\ref\QUEUE.dll

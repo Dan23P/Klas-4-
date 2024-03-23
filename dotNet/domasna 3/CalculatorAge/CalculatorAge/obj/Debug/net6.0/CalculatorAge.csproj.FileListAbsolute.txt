@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\bin\Debug\net6.0\CalculatorAge.exe
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\bin\Debug\net6.0\CalculatorAge.deps.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\bin\Debug\net6.0\CalculatorAge.runtimeconfig.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\bin\Debug\net6.0\CalculatorAge.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\bin\Debug\net6.0\CalculatorAge.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\CalculatorAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\CalculatorAge.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\CalculatorAge.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\CalculatorAge.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\CalculatorAge.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\refint\CalculatorAge.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\CalculatorAge.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\CalculatorAge.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 3\CalculatorAge\CalculatorAge\obj\Debug\net6.0\ref\CalculatorAge.dll

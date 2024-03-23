@@ -12,3 +12,17 @@ C:\Users\Daniel\Desktop\Klas 2\domasni\.net\domasna 1\AverageNumber\AverageNumbe
 C:\Users\Daniel\Desktop\Klas 2\domasni\.net\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
 C:\Users\Daniel\Desktop\Klas 2\domasni\.net\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
 C:\Users\Daniel\Desktop\Klas 2\domasni\.net\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\bin\Debug\net6.0\AverageNumber.exe
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\bin\Debug\net6.0\AverageNumber.deps.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\bin\Debug\net6.0\AverageNumber.runtimeconfig.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\bin\Debug\net6.0\AverageNumber.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\bin\Debug\net6.0\AverageNumber.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\refint\AverageNumber.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 1\AverageNumber\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll

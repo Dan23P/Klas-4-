@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\bin\Debug\net6.0\SumfFunction.exe
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\bin\Debug\net6.0\SumfFunction.deps.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\bin\Debug\net6.0\SumfFunction.runtimeconfig.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\bin\Debug\net6.0\SumfFunction.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\bin\Debug\net6.0\SumfFunction.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\SumfFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\SumfFunction.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\SumfFunction.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\SumfFunction.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\SumfFunction.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\refint\SumfFunction.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\SumfFunction.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\SumfFunction.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\SumfFunction\SumfFunction\obj\Debug\net6.0\ref\SumfFunction.dll

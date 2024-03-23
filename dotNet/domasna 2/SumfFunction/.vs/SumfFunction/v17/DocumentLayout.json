@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Klas 2\\domasni\\dotNet\\domasna 2\\SumfFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE87D9B-B5E6-40F2-8D6C-16FCA510BED2}|SumfFunction\\SumfFunction.csproj|c:\\users\\daniel\\desktop\\klas 2\\domasni\\dotnet\\domasna 2\\sumffunction\\sumffunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE87D9B-B5E6-40F2-8D6C-16FCA510BED2}|SumfFunction\\SumfFunction.csproj|solutionrelative:sumffunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Klas 2\\domasni\\dotNet\\domasna 2\\SumfFunction\\SumfFunction\\Program.cs",
+              "RelativeDocumentMoniker": "SumfFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Klas 2\\domasni\\dotNet\\domasna 2\\SumfFunction\\SumfFunction\\Program.cs",
+              "RelativeToolTip": "SumfFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:47:26.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

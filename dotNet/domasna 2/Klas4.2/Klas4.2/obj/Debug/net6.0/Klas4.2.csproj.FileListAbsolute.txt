@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\bin\Debug\net6.0\Klas4.2.exe
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\bin\Debug\net6.0\Klas4.2.deps.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\bin\Debug\net6.0\Klas4.2.runtimeconfig.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\bin\Debug\net6.0\Klas4.2.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\bin\Debug\net6.0\Klas4.2.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\Klas4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\Klas4.2.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\Klas4.2.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\Klas4.2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\Klas4.2.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\refint\Klas4.2.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\Klas4.2.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\Klas4.2.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\Klas4.2\Klas4.2\obj\Debug\net6.0\ref\Klas4.2.dll

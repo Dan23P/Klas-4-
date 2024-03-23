@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\SumOfEven.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SumOfEven.exe
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SumOfEven.deps.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SumOfEven.runtimeconfig.json
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SumOfEven.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\SumOfEven.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\SumOfEven.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\SumOfEven.dll
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\SumOfEven.pdb
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\SumOfEven.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Klas 2\domasni\dotNet\domasna 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\SumOfEven.dll
