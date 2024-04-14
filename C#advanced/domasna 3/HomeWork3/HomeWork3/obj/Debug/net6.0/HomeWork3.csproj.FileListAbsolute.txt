@@ -1,0 +1,15 @@
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\bin\Debug\net6.0\HomeWork3.exe
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\bin\Debug\net6.0\HomeWork3.deps.json
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\bin\Debug\net6.0\HomeWork3.runtimeconfig.json
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\bin\Debug\net6.0\HomeWork3.dll
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\bin\Debug\net6.0\HomeWork3.pdb
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\HomeWork3.AssemblyInfoInputs.cache
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\HomeWork3.AssemblyInfo.cs
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\HomeWork3.csproj.CoreCompileInputs.cache
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\HomeWork3.sourcelink.json
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\HomeWork3.dll
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\refint\HomeWork3.dll
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\HomeWork3.pdb
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\HomeWork3.genruntimeconfig.cache
+D:\KLAS4\C#advanced\domasna 3\HomeWork3\HomeWork3\obj\Debug\net6.0\ref\HomeWork3.dll

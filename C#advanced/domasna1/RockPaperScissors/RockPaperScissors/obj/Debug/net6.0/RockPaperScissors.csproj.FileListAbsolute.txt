@@ -1,0 +1,15 @@
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.sourcelink.json
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache
+D:\KLAS4\C#advanced\domasna1\RockPaperScissors\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll

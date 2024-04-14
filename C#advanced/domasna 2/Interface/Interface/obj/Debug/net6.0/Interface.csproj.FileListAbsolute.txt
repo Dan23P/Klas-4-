@@ -1,0 +1,15 @@
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\bin\Debug\net6.0\Interface.exe
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\bin\Debug\net6.0\Interface.dll
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\Interface.sourcelink.json
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\Interface.dll
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\KLAS4\C#advanced\domasna 2\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll

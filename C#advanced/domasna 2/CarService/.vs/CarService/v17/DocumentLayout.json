@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\class\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\class\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\class\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\class\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\class\\repairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\class\\repairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\interface\\irepairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\interface\\irepairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\interface\\igaspump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\interface\\igaspump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\interface\\icarwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\interface\\icarwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\class\\gaspump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\class\\gaspump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\class\\carwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\class\\carwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\class\\carcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\class\\carcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|d:\\klas4\\c#advanced\\domasna 2\\carservice\\carservice\\class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6693F9CE-0468-4ABB-8AAB-C7E6C8296062}|CarService\\CarService.csproj|solutionrelative:carservice\\class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Program.cs",
+              "RelativeDocumentMoniker": "CarService\\Program.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Program.cs",
+              "RelativeToolTip": "CarService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:46:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepairService.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\RepairService.cs",
+              "RelativeDocumentMoniker": "CarService\\Class\\RepairService.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\RepairService.cs",
+              "RelativeToolTip": "CarService\\Class\\RepairService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:51:29.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\Truck.cs",
+              "RelativeDocumentMoniker": "CarService\\Class\\Truck.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\Truck.cs",
+              "RelativeToolTip": "CarService\\Class\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:13:11.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarService\\Class\\Vehicle.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\Vehicle.cs",
+              "RelativeToolTip": "CarService\\Class\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:11:15.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepairService.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Interface\\IRepairService.cs",
+              "RelativeDocumentMoniker": "CarService\\Interface\\IRepairService.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Interface\\IRepairService.cs",
+              "RelativeToolTip": "CarService\\Interface\\IRepairService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:59:10.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGasPump.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Interface\\IGasPump.cs",
+              "RelativeDocumentMoniker": "CarService\\Interface\\IGasPump.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Interface\\IGasPump.cs",
+              "RelativeToolTip": "CarService\\Interface\\IGasPump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:58:36.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarWash.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Interface\\ICarWash.cs",
+              "RelativeDocumentMoniker": "CarService\\Interface\\ICarWash.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Interface\\ICarWash.cs",
+              "RelativeToolTip": "CarService\\Interface\\ICarWash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:48:21.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GasPump.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\GasPump.cs",
+              "RelativeDocumentMoniker": "CarService\\Class\\GasPump.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\GasPump.cs",
+              "RelativeToolTip": "CarService\\Class\\GasPump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:50:37.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarWash.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\CarWash.cs",
+              "RelativeDocumentMoniker": "CarService\\Class\\CarWash.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\CarWash.cs",
+              "RelativeToolTip": "CarService\\Class\\CarWash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:49:37.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarCenter.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\CarCenter.cs",
+              "RelativeDocumentMoniker": "CarService\\Class\\CarCenter.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\CarCenter.cs",
+              "RelativeToolTip": "CarService\\Class\\CarCenter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:55:03.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\Car.cs",
+              "RelativeDocumentMoniker": "CarService\\Class\\Car.cs",
+              "ToolTip": "D:\\KLAS4\\C#advanced\\domasna 2\\CarService\\CarService\\Class\\Car.cs",
+              "RelativeToolTip": "CarService\\Class\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:12:13.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

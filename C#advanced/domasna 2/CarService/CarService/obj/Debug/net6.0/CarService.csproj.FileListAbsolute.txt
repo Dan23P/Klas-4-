@@ -1,0 +1,15 @@
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\bin\Debug\net6.0\CarService.exe
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\bin\Debug\net6.0\CarService.deps.json
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\bin\Debug\net6.0\CarService.runtimeconfig.json
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\bin\Debug\net6.0\CarService.dll
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\bin\Debug\net6.0\CarService.pdb
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\CarService.GeneratedMSBuildEditorConfig.editorconfig
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\CarService.AssemblyInfoInputs.cache
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\CarService.AssemblyInfo.cs
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\CarService.csproj.CoreCompileInputs.cache
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\CarService.sourcelink.json
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\CarService.dll
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\refint\CarService.dll
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\CarService.pdb
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\CarService.genruntimeconfig.cache
+D:\KLAS4\C#advanced\domasna 2\CarService\CarService\obj\Debug\net6.0\ref\CarService.dll
